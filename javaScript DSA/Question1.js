@@ -18,5 +18,6 @@ for (let i = j; i < length; i++) {
 }
 
 return nums;
+// solved in leetcode
 
 };
